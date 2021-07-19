@@ -1,24 +1,22 @@
-# three_demo
+# three.js 粒子教程
 
-## Project setup
-```
-npm install
-```
+> three.js 结合 vue 粒子教程
 
-### Compiles and hot-reloads for development
-```
+[课程地址](https://www.bilibili.com/video/BV1Hg41137d2)
+
+## 本地运行
+
+```bash
+
+# 安装运行依懒
+npm i
+
+# 启动运行，监听在8080端口
 npm run serve
-```
 
-### Compiles and minifies for production
-```
+# 打包部署
 npm run build
+
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 如果有帮助到你请给我一个 start 谢谢！
